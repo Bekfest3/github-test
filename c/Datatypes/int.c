@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    printf("Integer datatype is outputted using %d\n");
+    printf("Integer datatype is outputted using \"%%d\"\n");
 
     //Example
     int a = 10,b=20;
