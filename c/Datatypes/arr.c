@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    printf("Array datatype stores multiple values of same datatype and outputted using %d,%f etc\n");
+    printf("Array datatype stores multiple values of same datatype and outputted using \"%%d\", \"%%f\" etc\n");
 
     //Example
     int arr[5] = {1,2,3};
