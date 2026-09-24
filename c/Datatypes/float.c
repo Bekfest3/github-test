@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    printf("Float datatype is outputted using %f\n");
+    printf("Float datatype is outputted using \"%%f\"\n");
 
     //Example
     float a = 10.5,b=20.5;
